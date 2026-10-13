@@ -1,8 +1,7 @@
-name: "mod-name"
-displayName: "This isn't a mod."
-author: diduf
-description: "A short description of your mod."
-version: "1.0"
-minGameVersion: "160.7"
-dependencies: [ ]
+displayName: "mmm"
+name: "mmm"
+author: "diduf"
+description: "Adds tools for automatically filling resource patches with drills"
+version: 1.0
+minGameVersion: 158
 hidden: false
