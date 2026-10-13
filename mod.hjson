@@ -1,0 +1,8 @@
+name: "mod-name"
+displayName: "This isn't a mod."
+author: diduf
+description: "A short description of your mod."
+version: "1.0"
+minGameVersion: "160.7"
+dependencies: [ ]
+hidden: false
